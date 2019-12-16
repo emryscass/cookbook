@@ -1,1 +1,1 @@
-This branch will include many small projects
+This repository will include many small projects
