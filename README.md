@@ -10,6 +10,6 @@ Projects included:
 
 - Password Check - at least 8 characters, contain lower and upper letters, numbers and $%#@ symbols, must end with number
 
-- Prime Numbers - if user enters 100, program will return all primes up to 100
+- Prime Numbers - if user enters a number, program will return all primes up to the user number
 
 - test_game - practice using the unittest module
