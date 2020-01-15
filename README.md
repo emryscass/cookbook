@@ -2,7 +2,7 @@ This repository is a container of small/fun projects. All projects were written 
 
 Projects included:
 
-- English to Pyg Latin
+- English to Pyg Latin (very basic only interpreting one word)
 
 - Fibonacci sequence as a generator
 
